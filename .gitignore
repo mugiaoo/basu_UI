@@ -35,6 +35,6 @@ xcuserdata/
 *.moved-aside
 !.gitkeep
 
-# Xcode user state files
+## Xcode user state files
 *.xcuserstate
 
